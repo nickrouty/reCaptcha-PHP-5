@@ -100,7 +100,8 @@ class Captcha
         'red',
         'white',
         'blackglass',
-        'clean'
+        'clean',
+        'custom'
     );
 
     /**
